@@ -14,6 +14,8 @@ namespace ConsoleApplication1
             //this code was added in VS
 
             //code to call Feature1 chaes
+
+            //add code to call feature 2
         }
     }
 }
